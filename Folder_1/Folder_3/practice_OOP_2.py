@@ -1,4 +1,4 @@
-#for GIT
+
 
 #Task1
 class Peopl:
