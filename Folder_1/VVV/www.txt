@@ -1,1 +1,4 @@
-ggggggg
+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
+
+git push https://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
+@github.com/mokys84/HW_21_Git.git
